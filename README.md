@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CNN-Based Feature Extraction from Facial Regions of Interest
 
 A computer-vision experiment that extracts and visualises convolutional activation maps from five facial regions using three CNN configurations.
@@ -97,3 +98,7 @@ The original notebook is designed for Google Colab and includes interactive uplo
 ## License
 
 No license is declared yet. Add a license only after deciding how you want the original code to be reused and checking the terms for any third-party code/checkpoints. The VGGFace2 checkpoint and dlib landmark predictor are not bundled here.
+=======
+# modern-cnn-facial-roi-feature-extraction
+Comparative study of CNN feature extraction from facial regions of interest (ROIs) using a custom CNN, ImageNet-pretrained ResNet-50, and VGGFace2 fine-tuned ResNet-50 across full-face, eye, nose, and mouth regions.
+>>>>>>> 6681e5ff759af5edfca155af9d5537ad5e74cfc5
