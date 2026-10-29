@@ -95,9 +95,6 @@ The original notebook is designed for Google Colab and includes interactive uplo
 - ResNet feature-map extraction point: `layer4`, before global average pooling.
 - The notebook and modules save descriptive outputs; generated results depend on the input image, package versions, hardware, and checkpoint availability.
 
-## License
-
-No license is declared yet. Add a license only after deciding how you want the original code to be reused and checking the terms for any third-party code/checkpoints. The VGGFace2 checkpoint and dlib landmark predictor are not bundled here.
 =======
 # modern-cnn-facial-roi-feature-extraction
 Comparative study of CNN feature extraction from facial regions of interest (ROIs) using a custom CNN, ImageNet-pretrained ResNet-50, and VGGFace2 fine-tuned ResNet-50 across full-face, eye, nose, and mouth regions.
