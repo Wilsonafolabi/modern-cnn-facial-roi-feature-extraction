@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CNN-Based Feature Extraction from Facial Regions of Interest
 
 A computer-vision experiment that extracts and visualises convolutional activation maps from five facial regions using three CNN configurations.
