@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model weights and third-party checkout
+models/*.dat
+models/*.pkl
+models/*.pth
+models/*.pt
+third_party/
+
+# User images / generated face crops
+*.jpg
+*.jpeg
+*.webp
+user_images/
+crops/
+
+# Generated outputs (keep intentional figures/CSV if reviewed before commit)
+results/*
+!results/figures/.gitkeep
+
+# Notebook transient state
+.ipynb_checkpoints/
